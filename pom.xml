@@ -3,7 +3,7 @@
 
   <groupId>ru.stqa.selenium</groupId>
   <artifactId>webdriver-junit5-archetype</artifactId>
-  <version>4.2-SNAPSHOT</version>
+  <version>4.1-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
 
   <name>WebDriver JUnit5 Archetype</name>
