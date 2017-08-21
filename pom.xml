@@ -3,7 +3,7 @@
 
   <groupId>ru.stqa.selenium</groupId>
   <artifactId>webdriver-junit5-archetype</artifactId>
-  <version>4.2</version>
+  <version>4.3-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
 
   <name>WebDriver JUnit5 Archetype</name>
@@ -25,7 +25,7 @@
     <connection>scm:git:git@github.com:barancev/webdriver-junit5-archetype.git</connection>
     <developerConnection>scm:git:git@github.com:barancev/webdriver-junit5-archetype.git</developerConnection>
     <url>https://github.com/barancev/webdriver-junit5-archetype</url>
-    <tag>webdriver-junit5-archetype-4.2</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <developers>
